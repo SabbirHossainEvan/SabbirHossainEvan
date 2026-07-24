@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Frontend Developer | React Native Developer | MERN Stack Learner
+Software Developer | Mobile & Web | Frontend & Backend | Exploring Data Science & AI.
 </h3>
 
 <p align="center">
@@ -14,11 +14,15 @@ Frontend Developer | React Native Developer | MERN Stack Learner
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **React Native Applications**
-- 🌱 Learning **FastAPI, MySQL & Backend Development**
-- 💬 Ask me about **React, React Native, JavaScript**
-- 🚀 Passionate about building beautiful UI/UX
-- ⚡ Fun Fact: I love solving real-world problems with code.
+* 💼 **Software Developer** specializing in **Mobile & Web Applications**
+* 📱 Building modern, scalable apps with **React Native**, **React**, and **Next.js**
+* 🌱 Currently exploring **Backend Development** with **FastAPI**, **Node.js**, and **MySQL**
+* 🤖 Expanding my knowledge in **Data Science** and **Artificial Intelligence**
+* 💬 Ask me about JavaScript, TypeScript, React Ecosystem, React Native, Next.js, Frontend Architecture, State Management, REST APIs, Mobile App Development, and Modern Web Development.
+* 🎯 Passionate about crafting clean, responsive, and user-centric digital experiences
+* 🚀 Always learning new technologies and turning ideas into impactful products
+* ⚡ **Fun Fact:** I enjoy solving real-world problems through clean, efficient code.
+
 
 ---
 
@@ -33,7 +37,7 @@ Frontend Developer | React Native Developer | MERN Stack Learner
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/a1primeit">
+<a href="https://www.facebook.com/SabbirHossainEvan31/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -54,11 +58,8 @@ Frontend Developer | React Native Developer | MERN Stack Learner
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SabbirHossainEvan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirHossainEvan&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabbirHossainEvan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabbirHossainEvan&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -86,9 +87,7 @@ Frontend Developer | React Native Developer | MERN Stack Learner
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SabbirHossainEvan&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
+  <img src="https://streak-stats.demolab.com?user=SabbirHossainEvan&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -117,6 +116,5 @@ Frontend Developer | React Native Developer | MERN Stack Learner
 
 ### ⭐ Thanks for visiting my profile!
 
-### Happy Coding 🚀
 
 </div>
