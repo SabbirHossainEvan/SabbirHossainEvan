@@ -10,7 +10,6 @@ Software Developer • Mobile & Web • React Native • Frontend & Backend • 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Software+Developer;Frontend+Developer;React+Native+Developer;React+%26+Next.js+Developer;JavaScript+%26+TypeScript+Enthusiast;Building+Scalable+Web+%26+Mobile+Apps;FastAPI+%26+Backend+Learner;Exploring+Data+Science+%26+AI;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
-```
 
 
 ---
